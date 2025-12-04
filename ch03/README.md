@@ -16,3 +16,12 @@
 | 저장 단위 | Table | Collection |
 | 데이터 단위 | Row | Document |
 | 데이터 속성 | Column | Field |
+
+### 데이터 형태 3가지
+<pre>
+  정형 데이터 : ORACLE, mySQL 처럼 테이블 형태로 데이터 저장
+
+  비정형 데이터 : 유튜브 자막 데이터, 사진 텍스트 데이터...
+
+  반정형 데이터 : JSON 처럼 {키 : 값} 형태로 저장
+</pre>

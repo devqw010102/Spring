@@ -18,3 +18,23 @@
 
   ex) URL 주소 -> 프로세스 처리
 </pre>
+
+#### HTTP Method
+| Method | Fn |
+| ------ | ---- |
+| GET | 조회 |
+| POST | 생성 |
+| PUT | 수정 |
+| DELETE | 삭제 |
+
+#### HTTP 상태 코드
+| HTTP 상태 코드 | 의미 |
+| ------------ | ------ |
+| 200 OK | 요청을 정상적으로 처리 |
+| 201 Created | 요청에 따라 자원을 정삭적으로 생성 |
+| 400 Bad Request | 요청 정보가 잘못되었을 때 |
+| 401 Unauthorized | 요청을 처리하기 위해 인증이 필요할 때 |
+| 403 Forbidden | 요청에 대한 권한이 없을 때 |
+| 404 Not Found | 요청의 대상 자원이 없을 때 |
+| 500 Internal Server Error | 서버 오류가 발생했을 때 |
+

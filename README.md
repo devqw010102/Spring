@@ -25,7 +25,7 @@
 <pre>
   Spring 의존성 : 토의 X
 
-  Entity : 식당, 예약 현황(식당 이름), 회원(Many to one), 완료된 예약(구현)
+  Entity : 식당(naver api 활용), 예약 현황(식당 이름), 회원(Many to one), 완료된 예약(구현)
   
   View : 
   
